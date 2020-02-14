@@ -29,3 +29,7 @@ Imghost是一个基于eclctron的桌面程序，它是一个简单的图床上�
 ![demo2](./demo/demo2.jpg)
 
 ![demo3](./demo/demo3.jpg)
+
+### 配置
+
+使用`setting.json`文件保存配置的上传和预览api地址
